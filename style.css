@@ -1,0 +1,54 @@
+/*
+  File Name: /~speng/public_html/style_BackgroundFontcolor.css
+  Author: Sokchea Peng, University of Massachusetts student 
+  E-mail: sokchea_peng@student.uml.edu 
+  Created on : Sep 11, 2014, 6:51:26 PM
+  Purpose: This page is used to describe my Information, Assignment and contact  
+*/
+
+
+body{
+   font-family: Helvetica, Arial,sans-serif;
+   background-image: url("skyblue.jpg");
+   color: darkblue ;
+   padding: 0;
+}
+
+ul{
+   padding: 0px;
+   margin: 0px;   
+   display: inline; 
+  }
+
+em{
+   text-transform: uppercase;
+  }
+
+li{
+      list-style-type: none;
+      float: left;
+      display: block;
+      top: 0;
+      padding-left: 15px;
+      
+  }
+a:hover { 
+    background-color: darkblue;
+    border-color: white;
+    color: white
+   
+   }
+
+a:link{
+       text-decoration: none;
+       background-color: #ff3399;
+   }
+ 
+
+  #image{
+     
+      display: inline;
+      
+      
+      
+}
